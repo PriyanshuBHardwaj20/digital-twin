@@ -2,9 +2,17 @@
 
 - I have provided WebBuild and WindowsBuild for this project
 
-- To run the WindowsBuild, download this repo on a Windows computer and open WindowsBuild folder , then double click the "Digital Twin" application to run the build, press Alt+F4 to exit.
+- To run the WindowsBuild, download this repo on a Windows computer and open WindowsBuild folder , then double click the "Digital Twin" application to run the build, to exit the build press Alt+F4.
 
 - To run the WebBuild, open this link - https://play.unity.com/en/games/342c75c9-15e3-48a2-a606-a43ea216108d/webbuild and press Play to run the build.
+
+## Tutorial -
+
+- The Patient Vitals Panel has 3 sliders (Heart rate, Oxygen and Body Temp) for simulating Patient vitals.
+
+- The sliders can be used to change the different vitals of the Patient. 
+
+- If any of the vitals is beyond normal level, the Patient will change its colour from green(normal) to yellow(moderate) then red(critical) to simulate patient's health status.
 
 ## Project Overview: Hospital Room Digital Twin
 This project is a high-fidelity 3D Digital Twin (DT) concept developed in Unity to simulate patient health monitoring environments. It serves as the Physical-Digital Interface for the SMILE methodology, focusing on real-time visualization of physiological data.
